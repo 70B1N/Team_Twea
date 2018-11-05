@@ -7,7 +7,7 @@ public class Changer : MonoBehaviour
 {
     public void SceneChangeREAL()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("InstructionalScene");
     }
 
 }
